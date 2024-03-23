@@ -31,7 +31,11 @@ The <b> Movie Correlation project </b> aimed to generate a correlation matrix to
 <img src="/images/Heat_map-All_features.png" width=300>
 
 
-<img src="/images/Original_Data-First5rows.png" width=300>
+<img src="/images/Matrix_Pairs.png" width=300>
+
+<img src="/images/Sorted_Matrix_Pairs.png" width=300>
+
+<img src="/images/High_Correlated_Matrix_Pairs.png" width=300>
 
 
 
