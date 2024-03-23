@@ -91,8 +91,6 @@ print(sorted_pairs)
 high_corr = sorted_pairs[(sorted_pairs) >0.5] #displaying only high correlated pairs
 print(high_corr)
 
-#Conclusion
-#budget and gross have the highest correlation
-#company and budget have low correlateion value
+
 
 
