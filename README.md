@@ -14,27 +14,24 @@ The <b> Movie Correlation project </b> aimed to generate a correlation matrix to
 after sorting 'Gross' data values in descending order.</p>
 <img src="/images/New_column_yearcorrect_and_gross_descending.png" width=1000>
 <p> Scatterplot shows positive relationship between budget and gross earnings variables. </p>
-<img src="/images/Scatterplot1-Budget_vs_Grossearnings.png" width=300>
-<p> Plotting relationship between budget and gross earnings using regplot function. variables</p>
-<img src="/images/Scatterplot2-Budget_vs_Grossearnings.png" width=300>
-
-<img src="/images/Correlation_Matrix_table.png" width=300>
-
-<img src="/images/Heat_map-Numeric_features.png" width=300>
-
-
-
-<img src="/images/Numerized_Dataframe.png" width=300>
-
-<img src="/images/Heat_map-All_features.png" width=300>
-
-
+<img src="/images/Scatterplot-Budget_vs_Grossearnings.png" width=500>
+<p> Plotting relationship between budget and gross earnings using regplot function.</p>
+<img src="/images/Regplot-Budget_vs_Grossearnings.png" width=500>
+<p> The Correlation matrix table for the columns with numeric values shows high correlation value(0.74) for budget and gross earnings</p>
+<img src="/images/Correlation_Matrix_table.png" width=500>
+<p> Heat map showing color encoded matrix for numerical features.</p>
+<img src="/images/Heat_map-Numeric_features.png" width=500>
+<p> Converting all the categorical feature values to numerical in order to display the heatmap of all features</p>
+<img src="/images/Numerized_Dataframe.png" width=900>
+<p> Heat map showing color encoded matrix for all features. </p>
+<img src="/images/Heat_map-All_features.png" width=500>
+<p> Generate the matrix pairs table as shown below </p>
 <img src="/images/Matrix_Pairs.png" width=300>
-
+<p> Sorting the matrix pairs with descending correlation values</p>
 <img src="/images/Sorted_Matrix_Pairs.png" width=300>
-
+<p> Displaying only the variable pairs that has the correlation value more than 0.5.</p>
 <img src="/images/High_Correlated_Matrix_Pairs.png" width=300>
 
-
+<H3><b> Conclusion:</b></H3> <p> </p>
 
 
