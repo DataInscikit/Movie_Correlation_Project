@@ -1,6 +1,7 @@
 The <b> Movie Correlation project </b> aimed to generate a correlation matrix to determine highly correlated features in the movies.csv dataset. The features budget and gross earnings have a high correlation, whereas the company and budget have a low correlation value.
 </br>
-<p> First import pandas, seaborn, and matplotlib libraries. Then read in the data and display the first 5 rows of data.</p>
+<p> First import pandas, seaborn, and matplotlib libraries. Then read in the data found on the Kaggle website 
+(https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download) and display the first 5 rows of data.</p>
 <img src="/images/Original_data-First5rows.png" width=1000>
 <p> Dimesionality of the data frame - 7668 rows and 15 columns </p>
 <img src="/images/Dimensionality_of_original_dataframe.png" width=100>
