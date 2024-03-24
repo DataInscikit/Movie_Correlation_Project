@@ -32,6 +32,5 @@ after sorting 'Gross' data values in descending order.</p>
 <p> Displaying only the variable pairs that has the correlation value more than 0.5.</p>
 <img src="/images/High_Correlated_Matrix_Pairs.png" width=300>
 
-<H3><b> Conclusion:</b></H3> <p> </p>
 
 
