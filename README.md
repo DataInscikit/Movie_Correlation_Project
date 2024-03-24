@@ -1,4 +1,4 @@
-The <b> Movie Correlation project </b> aimed to generate a correlation matrix to determine highly correlated features in the movies.csv dataset. The features budget and gross earnings have a high correlation, whereas the company and budget have a low correlation value.
+The <b> Movie Correlation project </b> aimed to generate a correlation matrix to determine highly correlated features in the movies.csv dataset. 
 </br>
 <p> First import pandas, seaborn, and matplotlib libraries. Then read in the data found on the Kaggle website 
 (https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download) and display the first 5 rows of data.</p>
@@ -33,5 +33,6 @@ after sorting 'Gross' data values in descending order.</p>
 <p> Displaying only the variable pairs that has the correlation value more than 0.5.</p>
 <img src="/images/High_Correlated_Matrix_Pairs.png" width=300>
 
+<H3><b> Conclusion:</b></H3><p> The correlation analysis on the movies dataset reveals that revenue of a movie has the highest positive correlation(0.74) with the budget of a movie. The number of user votes has the second highest positive correlation(0.61) with the gross earnings of a movie. The production company shows low positive correlation(0.14) with revenue generated of a movie disproving general consensus that movies made by the well known production companies guarantee high revenue.</p>
 
 
